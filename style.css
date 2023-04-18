@@ -1,0 +1,1311 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 3000px;
+    max-width: 100%;
+}
+
+
+/* SECTION 1 */
+.social-links a{
+    display: inline-block;
+    height: 80px;
+    width: 29px;
+    color: #D0D0D0;
+    transition: all 0.5s ease;
+    font-size: 22px;
+}
+
+.icon-twitter-header{
+    color: #000;
+}
+
+.main-title{
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Pacifico', cursive;
+}
+
+.icon-shop-header{
+    color: #000;
+    font-size: 38px;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.navbar-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-item {
+    margin: 0 15px;
+}
+
+.navbar-item a , .nav-link{
+    text-decoration: none;
+    font-weight: 500;
+    color: #333;
+}
+
+.search-icon{
+    color: #333639;
+    font-size: 20px;
+}
+
+
+/* SECTION 4 */
+span.slide-title-img1 {
+    border: 3px solid;
+    padding: 0px 14px 0px 14px;
+}
+
+.sale-text-img1{
+    border: 3px solid;
+    padding: 0px 14px 0px 14px;
+}
+
+.sale-paragraph-img1-slide{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading-img1-slide{
+    font-weight: bold;
+    font-size: 75px;
+}
+
+p.slide-text-img1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.paragraph-img2-slide {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h5.slide-title-img2 {
+    letter-spacing: 12px;
+    font-size: 40px;
+}
+
+.slide-text-img2{
+    font-family: 'Pacifico', cursive;
+}
+
+.swiper-button-prev, .swiper-button-next {
+    color: #000;
+}
+
+
+/* SECTION 5 */
+section.page5{
+    margin-bottom: 7%;
+}
+
+.cards-trio{
+    margin: 34px 0px 0px 0px;
+}
+.paragraphs-card1 {
+    position: relative;
+    display: flex;
+    background-color: #ca7379;
+    height: 60px;
+}
+
+.paragraphs-card2{
+    position: relative;
+    display: flex;
+    background-color: #c1ac91;
+    height: 60px;
+}
+
+.paragraphs-card3{
+    position: relative;
+    display: flex;
+    background-color: #8090a1;
+    height: 60px;
+}
+
+.icon-shop, .icon-gift, .icon-diamond{
+    position: absolute;
+    right: 25px;
+    color: #fff;
+    font-size: 26px;
+    float: right;
+}
+
+.text-card1, .text-card2, .text-card3{
+    position: absolute;
+    left: 45px;
+}
+
+
+/*SECTION 6 */
+.texts-of-page6{
+    text-align: center;
+}
+
+.first-text-page6{
+    letter-spacing: 5px;
+}
+
+.second-text-page6{
+    font-style: italic;
+    letter-spacing: 3px;
+}
+.button1-product1{
+    background-color: #ca7379;
+    border-radius: 20px;
+}
+
+.button-of-products{
+    background-color: #fff;
+    border-radius: 20px;
+    color: #000;
+    font-weight: 500;
+}
+
+.product-name{
+    text-align: center;
+    font-size: 14px;
+}
+
+.price-of-products{
+    color: #cd7c81;
+    text-align: center;
+}
+
+.icon-heart, .icon-left-right{
+    border: 2px solid #909090;
+    border-radius: 18px;
+    color: #909090;
+    padding: 3px 3px 3px 3px;
+    float: right;
+}
+
+.icon-left-right{
+    margin: 0px 7px 0px 0px;
+}
+
+.product{
+    margin: 40px 0px 0px 0px;
+}
+
+.center-button{
+    background-color: #ca7379;
+    color: #fff;
+    border-radius: 25px;
+    width: 23%;
+}
+
+.button-load-page6{
+    text-align: center;
+}
+
+/* SECTION 7 */
+section.page7.mt-5 {
+    min-width: 100%;
+}
+
+.quotes-text-page7{
+    text-align: justify;
+    margin: 80px 0px 0px 789px;
+}
+
+span.first-quote-page7 {
+    border: 4px solid;
+    padding: 0px 14px 0px 12px;
+}
+
+.second-quote-page7{
+    border: 4px solid;
+}
+
+h1.heading-quote1-page7 {
+    padding: 0px 0px 15px 0px;
+}
+
+/* SECTION 8 */
+.icon-shop-page8, .icon-heart-page8, .icon-left-right-page8{
+    border: 2px solid #909090;
+    border-radius: 18px;
+    color: #909090;
+    padding: 3px 3px 3px 3px;
+}
+
+.card-text{
+    color: #ca7379;
+}
+
+h6.card-title {
+    font-size: 15px;
+}
+
+.last-col-paragraph-page8{
+    color: #878787;
+}
+
+.anna-pandora-img-page8{
+    border-radius: 50px;
+}
+
+.card-body.col3-page8 {
+    background-color: #fafafa;
+    text-align: center;
+}
+
+.name-col3-page8{
+    font-weight: 600;
+}
+
+.profile-col3-page8{
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+/* hr.underline-of-tittle-col1-page8 {
+    width: 25%;
+    height: 2px;
+    color: #000;
+} */
+
+/* SECTION 9 */
+.card-paragraph{
+    color: #a5a5a5;
+}
+
+/* SECTION 10 */
+section.page10{
+    min-width: 100%;
+}
+.texts-page10{
+    text-align: center;
+}
+
+.email-add-button{
+    font-size: 13px;
+    border-radius: 20px;
+    color: #afafaf;
+}
+
+.subscribe-button{
+    font-size: 13px;
+    border-radius: 20px;
+}
+
+/* SECTION 12 */
+.card1-page12, .card2-page12, .card3-page12{
+    border: 1px solid #cc7379;
+}
+
+
+/* FOOTER */
+
+.container{
+	max-width: 1170px;
+	margin:auto;
+}
+
+.footer-row{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+ul{
+	list-style: none;
+    padding-left: 0;
+}
+
+footer{
+    padding: 70px 0;
+}
+
+.footer-col-4{
+   width: 25%;
+   padding: 0 15px;
+}
+
+.footer-col-4 p{
+	font-size: 18px;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 700;
+	position: relative;
+}
+
+
+.footer-col-4 p::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #000;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+
+
+.footer-col-4 ul li a{
+	font-size: 16px;
+	text-decoration: none;
+	font-weight: 500;
+	color: #888;
+	display: block;
+	transition: all 0.3s ease;
+    padding: 4px 0px 0px 0px;
+}
+
+
+.footer-col-4 ul li a:hover{
+	color: #000;
+}
+
+
+.footer-col-4 .social-links a{
+	display: inline-block;
+    padding-top: 4px;
+	background-color: #fff;
+	border-radius: 50%;
+	color: #D0D0D0;
+	transition: all 0.5s ease;
+}
+
+.icon-twitter-footer{
+    color: #000;
+}
+
+
+.author{
+  color: #888;
+  font-size: 15px;
+}
+
+.payments{
+    text-align: center;
+}
+
+/* ************* */
+/* MEDIA QUERIES */
+/* ************* */
+
+@media only screen and (max-width: 1240px){
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 80px 0px 0px 697px;
+    }
+
+    /* SECTION 10 */
+    .texts-page10 {
+        margin: -34px 0px 0px 0px;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+      /* SECTION 4 */
+      .heading-img1-slide {
+        font-size: 37px;
+    }
+
+    p.slide-text-img1 {
+        font-size: 20px;
+    }
+
+    h5.slide-title-img2 {
+        font-size: 25px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 83px 0px 0px 660px;
+    }
+}
+
+@media only screen and (max-width: 1162px){
+    /* SECTION 7 */
+    h1.heading-quote1-page7 {
+        font-size: 26px;
+        padding: 0px;
+    }
+
+    .second-quote-page7 {
+        font-size: 24px;
+    }
+}
+@media only screen and (max-width: 1134px){
+    /* SECTION 4 */
+    .img1_slide {
+        height: 435px;
+    }
+
+    /* SECTION 5 */
+    .text-card1, .text-card2, .text-card3 {
+        left: 24px;
+        font-size: 15px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 83px 0px 0px 620px;
+    }
+}
+
+@media only screen and (max-width: 1082px){
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 83px 0px 0px 590px;
+    }
+
+    /* SECTION 10 */
+    .texts-page10 {
+        margin: -49px 0px 0px 0px;
+    }
+}
+
+@media only screen and (max-width: 1034px){
+    /* SECTION 5 */
+    .text-card1, .text-card2, .text-card3 {
+        left: 24px;
+        font-size: 14px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 70px 0px 0px 565px;
+    }
+
+    /* SECTION 10 */
+    .texts-page10 {
+        margin: -49px 0px 0px 0px;
+    }
+}
+
+@media only screen and (max-width: 998px){
+    /* SECTION 2 */
+    .heading-img1-slide {
+        font-size: 32px;
+    }
+
+    p.slide-text-img1 {
+        font-size: 17px;
+    }
+
+    /* SECTION 5 */
+    .icon-diamond {
+        font-size: 20px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 70px 0px 0px 550px;
+    }
+
+    /* FOOTER */
+    .footer-col-4 p {
+        font-size: 16px;
+    }
+
+    .footer-col-4 ul li a {
+        font-size: 14px;
+    }
+
+    .author {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 958px){
+    /* SECTION 4 */
+    .img1_slide {
+        height: 410px;
+    }
+
+    button.prev.left-side-button {
+        margin: 194px 23px 0px 36px;
+    }
+
+    button.next.right-side-button {
+        margin: 194px 0px 0px 0px;
+    }
+
+    /* SECTION 5 */
+    .text-card1, .text-card2, .text-card3 {
+        left: 17px;
+        font-size: 13px;
+    }
+
+    .icon-shop, .icon-gift, .icon-diamond {
+        right: 12px;
+    }
+
+    /* SECTION 6 */
+    .product-name {
+        font-size: 10px;
+    }
+
+    .button1-product1 {
+        font-size: 12px;
+    }
+
+    .button-of-products {
+        font-size: 12px;
+    }
+
+    .price-of-products {
+        font-size: 14px;
+    }
+
+    .icon-left-right, .icon-heart {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 930px){
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 70px 0px 0px 511px;
+    }
+
+    /* SECTION 10 */
+    .texts-page10 {
+        margin: -60px 0px 0px 0px;
+    }
+
+    h5.card-title.mt-3 {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    /* SECTION 4 */
+    .img1_slide {
+        height: 380px;
+    }
+
+    .heading-img1-slide {
+        font-size: 29px;
+    }
+
+    p.slide-text-img1 {
+        font-size: 15px;
+    }
+
+    h5.slide-title-img2 {
+        font-size: 21px;
+    }
+
+    .slide-text-img2 {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 890px){
+    span.navbar-text {
+        font-size: 13px;
+    }
+
+    /* SECTION 2 */
+    .main-title {
+        font-size: 42px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 70px 0px 0px 487px;
+    }
+
+    /* SECTION 8 */
+    h6.card-title {
+        font-size: 13px;
+    }
+
+    .last-col-paragraph-page8 {
+        font-size: 14px;
+    }
+
+    /* SECTION 9 */
+    .card-paragraph {
+        font-size: 14px;
+    }
+
+    /* SECTION 10 */
+    .email-add-button {
+        font-size: 11px;
+    }
+
+    .subscribe-button {
+        font-size: 11px;
+    }
+}
+
+@media only screen and (max-width: 852px){
+    /* SECTION 4 */
+    .img1_slide {
+        height: 352px;
+    }
+
+    button.prev.left-side-button {
+        margin: 163px 23px 0px 27px;
+    }
+
+    button.next.right-side-button {
+        margin: 163px 0px 0px 0px;
+    }
+
+    /* SECTION 5 */
+    .icon-shop, .icon-gift {
+        right: 6px;
+        font-size: 22px;
+    }
+
+    .icon-diamond {
+        right: 6px;
+        font-size: 19px;
+    }
+
+    .text-card1, .text-card2, .text-card3 {
+        left: 17px;
+        font-size: 12px;
+    }
+
+    /* SECTION 6 */
+    .center-button {
+        font-size: 15px;
+        width: 19%;
+    }
+
+    .first-text-page6 {
+        font-weight: bold;
+        font-size: 14px;
+        letter-spacing: 5px;
+    }
+
+    .product {
+        width: 12rem !important;
+    }
+
+    /*SECTION 7  */
+    .quotes-text-page7 {
+        margin: 67px 0px 0px 464px;
+    }
+
+    h1.heading-quote1-page7 {
+        font-size: 23px;
+    }
+
+    .second-quote-page7 {
+        font-size: 22px;
+    }
+
+    p.pargraph-quote-page7 {
+        font-size: 14px;
+    }
+}
+
+
+@media only screen and (max-width: 822px){
+    /* SECTION 4 */
+    .img1_slide {
+        height: 328px;
+    }
+
+    .sale-paragraph-img1-slide {
+        margin: 70px 0px 0px 0px;
+    }
+
+    .heading-img1-slide {
+        font-size: 24px;
+    }
+
+    p.slide-text-img1 {
+        font-size: 14px;
+    }
+
+    h5.slide-title-img2 {
+        font-size: 18px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 65px 0px 0px 445px;
+    }
+
+    /* SECTION 8 */
+    .card-text {
+        font-size: 14px;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 790px){
+    /* SECTION 7 */
+    h1.heading-quote1-page7 {
+        font-size: 20px;
+    }
+
+    .second-quote-page7 {
+        font-size: 20px;
+    }
+
+    p.pargraph-quote-page7 {
+        font-size: 13px;
+    }
+
+    .quotes-text-page7 {
+        margin: 60px 0px 0px 429px;
+    }
+
+    /* SECTION 10 */
+    h5.card-title.mt-3 {
+        margin: 0;
+        font-size: 15px;
+    }
+
+    p.card-text-page10.mb-3 {
+        font-size: 13px;
+    }
+
+    /* FOOTER */
+    .footer-col-4 ul li a {
+        font-size: 12px;
+    }
+
+
+   .social-links a {
+    width: 19px;
+    font-size: 18px;
+   }
+}
+
+@media only screen and (max-width: 768px){
+    /* SECTION 2 */
+    .main-title {
+        font-size: 38px;
+    }
+
+    /* SECTION 4 */
+    button.prev.left-side-button {
+        margin: 163px 23px 0px 16px;
+    }
+
+     /* SECTION 12 */
+     h6.card-title {
+        font-size: 11px;
+    }
+
+    .card-paragraph {
+        font-size: 13px;
+    }
+
+    /* FOOTER */
+    .payments {
+        text-align: left;
+    }
+}
+
+@media only screen and (max-width: 766px){
+    /* SECTION 4 */
+    button.prev.left-side-button {
+        margin: 163px 23px 0px 71px;
+    }
+    
+    /* SECTION 6 */
+    .col-md-3.col-sm-6 {
+        text-align: -webkit-center;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 56px 0px 0px 416px;
+    }
+}
+
+@media only screen and (max-width: 742px){
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 52px 0px 0px 402px;
+    }
+}
+
+
+@media only screen and (max-width: 718px){
+    /* SECTION 4 */
+    .img1_slide {
+        height: 235px;
+    }
+
+    button.prev.left-side-button {
+        margin: 104px 23px 0px 71px;
+    }
+
+    button.next.right-side-button {
+        margin: 104px 0px 0px 0px;
+    }
+
+    .heading-img1-slide {
+        font-size: 19px;
+    }
+
+    p.slide-text-img1 {
+        font-size: 10px;
+    }
+
+    h5.slide-title-img2 {
+        font-size: 14px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 48px 0px 0px 388px;
+    }
+
+    /* SECTION 8 */
+    .anna-pandora-img-page8 {
+        width: 38%;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 38px 0px 0px 380px;
+    }
+
+    /* SECTION 10 */
+    p.card-text-page10.mb-2 {
+        font-size: 12px;
+    }
+    
+    .email-add-button {
+        font-size: 10px;
+        padding: 5px;
+    }
+
+    .subscribe-button {
+        font-size: 10px;
+        padding: 6px;
+    }
+}
+
+
+@media only screen and (max-width: 682px){
+    /* SECTION 7 */
+    h1.heading-quote1-page7 {
+        font-size: 16px;
+        line-height: 0;
+    }
+
+    .second-quote-page7 {
+        font-size: 15px;
+    }
+
+    .quotes-text-page7 {
+        margin: 59px 0px 0px 363px;
+    }
+
+    /* SECTION 10 */
+    img.Icon-Email.mt-5 {
+        margin: -6px;
+        width: 3%;
+    }
+
+    h5.card-title.mt-3 {
+        margin: -2px;
+        font-size: 13px;
+    }
+
+    /* FOOTER */
+    .footer-col-4 ul li a {
+        font-size: 11px;
+    }
+
+    .author {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 656px){
+    /* SECTION 7 */
+    h1.heading-quote1-page7 {
+        font-size: 13px;
+        line-height: 0;
+    }
+
+    .second-quote-page7 {
+        font-size: 13px;
+    }
+
+    p.pargraph-quote-page7 {
+        font-size: 12px;
+    }
+
+    .quotes-text-page7 {
+        margin: 59px 0px 0px 348px;
+    }
+
+    /* SECTION 8 */
+    .icon-shop-page8, .icon-heart-page8, .icon-left-right-page8 {
+        font-size: 10px;
+    }
+
+    .last-col-paragraph-page8 {
+        font-size: 13px;
+    }
+
+    .name-col3-page8 {
+        line-height: 0;
+        font-size: 12px;
+    }
+
+    .profile-col3-page8 {
+        font-size: 11px;
+    }
+
+    /* SECTION 10 */
+    .email-add-button, .subscribe-button {
+        font-size: 8px;
+    }
+
+    /* SECTION 12 */
+    h6.card-title {
+        font-size: 10px;
+    }
+
+    .card-paragraph {
+        font-size: 11px;
+    }
+}
+
+
+@media only screen and (max-width: 634px){
+    /* SECTION 1 */
+    .navbar-list {
+        font-size: 13px;
+    }
+
+    .search-icon {
+        font-size: 15px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 56px 0px 0px 338px;
+    }
+}
+
+@media only screen and (max-width: 614px){
+    /* SECTION 6 */
+    .center-button {
+        font-size: 12px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 52px 0px 0px 324px;
+    }
+
+    /* SECTION 8 */
+    .card-text {
+        font-size: 12px;
+    }
+
+    .icon-shop-page8, .icon-heart-page8, .icon-left-right-page8 {
+        font-size: 9px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 52px 0px 0px 317px;
+        line-height: 0;
+    }
+
+    /* FOOTER */
+    .footer-col-4 ul li a {
+    font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 588px){
+    /* SECTION 1 */
+    .navbar-light .navbar-text {
+        font-size: 12px;
+    }
+
+    .navbar-list {
+        font-size: 11px;
+    }
+
+    .search-icon {
+        font-size: 13px;
+    }
+
+    /* SECTION 2 */
+    .social-links a {
+        width: 14px;
+        font-size: 15px;
+    }
+
+    .main-title {
+        font-size: 24px;
+    }
+
+    .icon-shop-header {
+        font-size: 26px;
+    }
+
+    /* SECTION 4 */
+    .button1-product1 {
+        font-size: 11px;
+    }
+
+    .button-of-products {
+    font-size: 11px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 52px 0px 0px 308px;
+        line-height: 0;
+    }
+}
+
+
+@media only screen and (max-width: 576px){
+    .row.g-0 {
+        text-align: center;
+    }
+
+    /* SECTION 8 */
+    .anna-pandora-img-page8 {
+        width: 15%;
+    }
+
+    /* FOOTER */
+    .footer-col-4 {
+        width: 50%;
+        padding: 0px 65px 34px;
+    }
+}
+
+
+@media only screen and (max-width: 540px){
+    /* SECTION 4 */
+    button.next.right-side-button {
+        margin: 14px 0px 0px 425px;
+    }
+
+    button.prev.left-side-button {
+        margin: 17px 23px 10px 4px;
+    }
+
+    /* FOOTER */
+    .footer-col-4 .social-links a {
+        width: 16%;
+    }
+}
+
+@media only screen and (max-width: 470px){
+     /* SECTION 1 */
+     .navbar-item {
+        margin: 0 4px;
+    }
+ 
+    /* SECTION 9 */
+    .mt-4 {
+        margin-top: 0.5rem!important;
+    }
+}
+@media only screen and (max-width: 414px){
+    /* SECTION 2 */
+    .main-title {
+        font-size: 26px;
+    }
+
+    /* SECTION 4 */
+    button.next.right-side-button {
+        margin: 14px 0px 0px 311px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 8px 0px 0px 216px;
+        line-height: 0;
+        color: #000;
+    }
+
+    span.first-quote-page7 {
+        border: 3px solid;
+        padding: 0px 9px 0px 9px;
+    }
+
+    .second-quote-page7 {
+        font-size: 10px;
+        border: 3px solid;
+    }
+
+    p.pargraph-quote-page7 {
+        font-size: 11px;
+    }
+
+    /* SECTION 10 */
+    h5.card-title.mt-3 {
+        margin: -2px;
+        font-size: 9px;
+    }
+
+    p.card-text-page10.mb-2 {
+        font-size: 9px;
+    }
+
+    .email-add-button, .subscribe-button {
+        font-size: 6px;
+        margin: -19px 0px 0px 0px;
+        padding: 2px 3px 2px 3px;
+    }
+
+    /* SECTION 12 */
+    img.img-fluid.mt-4 {
+        width: 6%;
+    }
+
+    /* FOOTER */
+    .footer-col-4 .social-links a {
+        width: 14%;
+    }
+}
+
+
+@media only screen and (max-width: 394px){
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: 8px 0px 0px 200px;
+    }
+
+    /* FOOTER */
+    footer {
+        padding: 7px 0;
+    }
+
+    .footer-col-4 p {
+        font-size: 14px;
+    }
+
+    .footer-col-4 ul li a {
+        font-size: 9px;
+    }
+
+    .footer-col-4 .social-links a {
+        height: 0;
+        width: 47%;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    /* SECTION 1 */
+    .navbar-list {
+        font-size: 10px;
+    }
+
+    li.nav-item.dropdown {
+        word-spacing: -2px;
+    }
+
+    .navbar-item {
+        margin: 0 3px;
+    }
+
+    /* SECTION 6 */
+    .center-button {
+        font-size: 9px;
+        width: 26%;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+    margin: 0px 0px 0px 0px;
+    }
+}
+
+@media only screen and (max-width: 280px){
+    /* SECTION 1 */
+    .navbar-list {
+        font-size: 8px;
+    }
+
+    .navbar-item {
+        margin: 0 4px;
+    }
+
+    li.nav-item.dropdown {
+        margin: 0px -9px;
+    }
+
+    /* SECTION 2 */
+    section.page2 {
+        margin-top: -20px;
+    }
+
+    .social-links a {
+        width: 11px;
+        font-size: 15px;
+    }
+
+    .main-title {
+        font-size: 20px;
+    }
+
+    /* SECTION 3 */
+    section.page3 {
+        margin-top: -52px;
+    }
+
+    /* SECTION 4 */
+    h5.slide-title-img2 {
+        font-size: 9px;
+        letter-spacing: 5px;
+    }
+
+    /* SECTION 7 */
+    .quotes-text-page7 {
+        margin: -2px 0px 0px 0px;
+    }
+
+    h1.heading-quote1-page7 {
+        margin: 0;
+    }
+
+    span.first-quote-page7 {
+        font-size: 10px;
+    }
+
+    .second-quote-page7 {
+        font-size: 9px;
+    }
+
+    /* FOOTER */
+    .footer-col-4 {
+        padding: 0;
+    }
+}
